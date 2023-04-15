@@ -1,0 +1,11 @@
+# flipkart_sales_case_study
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_713_td3m7s.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_715_nkiv1v.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542836/flipkart_casestudy/Screenshot_714_npsxoh.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_716_q6318b.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_720_axgcgr.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_722_keb5tl.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_721_bnpghu.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_719_bbeji6.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_717_pw84bm.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1681542835/flipkart_casestudy/Screenshot_718_lcloyt.png"/>
